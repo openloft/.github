@@ -1,3 +1,3 @@
 # OpenLoft
 
-Controller & CRDs for vCluster OSS.
+The missing controller & CRDs for vCluster OSS.
